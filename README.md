@@ -1,16 +1,112 @@
-## Hi there 👋
+<div align="center">
+  <img src="./assets/Nova Logo Unica Branca.png" alt="Logo Unica" width="400" />
+</div>
 
-<!--
-**LeandroCesar-Dev/LeandroCesar-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+Mattiuzzo;Especialista+em+Ecossistema+Totvs+Protheus;Integra%C3%A7%C3%B5es+Modernas+%26+Solu%C3%A7%C3%B5es+Corporativas" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+<h1 align="center">Leandro Cesar</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong>Especialista em Ecossistema Totvs Protheus & Integrações Modernas</strong>
+</p>
+
+<p align="center">
+  Conectando ERP, APIs REST, aplicações web e soluções corporativas com foco em performance, escalabilidade e modernização de sistemas.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/leandro-cesar-souza-02754227/">
+    <img src="https://img.shields.io/badge/LinkedIn-Leandro_Cesar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.unicati.com.br">
+    <img src="https://img.shields.io/badge/Website-Unicati-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:leandro.cesar@unicati.com.br">
+    <img src="https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## Sobre mim
+
+Sou um profissional focado em integrar o universo **Totvs Protheus** com tecnologias modernas de desenvolvimento, criando soluções robustas para automação, integração e transformação digital de ambientes corporativos.
+
+Minha atuação passa por **TLPP**, **ADVPL**, **REST APIs**, **Angular**, **NestJS**, **Node.js**, **React**, **Flutter**, bancos relacionais e infraestrutura corporativa.
+
+---
+
+## Foco principal
+
+- Integrações entre **ERP** e sistemas externos via APIs REST
+- Customizações e automações no ecossistema Totvs Protheus
+- Aplicações web modernas para operação corporativa
+- Back-end escalável com Node.js e NestJS
+- Soluções orientadas a performance, produtividade e manutenção
+
+---
+
+## Stack Tecnológica
+
+### ERP e Back-end
+![Protheus](https://img.shields.io/badge/Protheus-ERP-blue?style=for-the-badge)
+![TLPP](https://img.shields.io/badge/TLPP-Totvs-blue?style=for-the-badge)
+![ADVPL](https://img.shields.io/badge/ADVPL-Totvs-0A66C2?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-API-02569B?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Front-end e Mobile
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Banco de Dados
+![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Infraestrutura e Ferramentas
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Exchange](https://img.shields.io/badge/Exchange-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
+![Office 365](https://img.shields.io/badge/Office_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+## Projetos em Destaque
+
+- **Integrações Protheus + REST APIs**  
+  Conexão entre ERP e sistemas externos com foco em escalabilidade e confiabilidade.
+
+- **Customizações em TLPP e ADVPL**  
+  Soluções sob medida para atender processos corporativos e regras de negócio.
+
+- **Aplicações Web Corporativas**  
+  Desenvolvimento com Angular, React, Tailwind, Node.js e NestJS.
+
+- **Banco de Dados e Performance**  
+  Estruturação, manutenção e otimização de SQL Server, MySQL e PostgreSQL.
+
+- **Soluções Mobile com Flutter**  
+  Interfaces para operação corporativa e ganho de produtividade.
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mattiuzzo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiuzzo&layout=compact&theme=tokyonight" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mattiuzzo&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
