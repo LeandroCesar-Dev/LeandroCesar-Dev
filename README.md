@@ -2,9 +2,7 @@
   <img src="./assets/Nova Logo Unica Branca.png" alt="Logo Unica" width="400" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+Mattiuzzo;Especialista+em+Ecossistema+Totvs+Protheus;Integra%C3%A7%C3%B5es+Modernas+%26+Solu%C3%A7%C3%B5es+Corporativas" alt="Typing SVG" />
-</div>
+
 
 <h1 align="center">Leandro Cesar</h1>
 
@@ -101,12 +99,12 @@ Minha atuação passa por **TLPP**, **ADVPL**, **REST APIs**, **Angular**, **Nes
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mattiuzzo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiuzzo&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrocesar-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocesar-dev&layout=compact&theme=tokyonight" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mattiuzzo&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leandrocesar-dev&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
